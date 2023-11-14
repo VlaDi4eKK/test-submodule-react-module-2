@@ -13,7 +13,7 @@ function Module2() {
   return (
     <div className="flex h-screen flex-col">
       <div className="m-auto">
-        <h1 className="text-red mx-auto text-3xl font-bold underline">Module 2</h1>
+        <h1 className="text-red mx-auto text-3xl font-bold underline">Module 2 from release v1</h1>
         <Button onClick={handleOpenStartPage} className="mx-auto">
           Go to menu
         </Button>
